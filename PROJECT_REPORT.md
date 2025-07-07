@@ -1,9 +1,8 @@
 # WordPress Recipe Sharing Plugin - Project Report
 
-**Student:** [Your Name]  
+**Student:** Zain
 **Course:** Web Programming  
-**Professor:** [Professor Name]  
-**Date:** [Current Date]  
+**Professor:** Armando Ruggeri 
 **Project:** WordPress Recipe Sharing Plugin Development
 
 ---
